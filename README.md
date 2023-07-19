@@ -2,6 +2,7 @@
 
 ### Project Summary:
 
+* Web scraped 147 start-up company profiles and 20 investor company profiles.
 * Utilized Python and Selenium for web scraping on BioEconomy Ventures platform.
 * Extracted company names, social media accounts, descriptions, establishment dates, MRL, requested investments, language, TRL, location, category, and first three LinkedIn profiles.
 * Created separate CSV files for investors and start-ups.
